@@ -4,6 +4,6 @@
 
 ### BioShip
 
-![BioShip]((https://github.com/TheoSchool/GameDevB3/blob/main/images/bioship.png?raw=true))
+![BioShip](https://github.com/TheoSchool/GameDevB3/blob/main/images/bioship.png?raw=true)
 
 [Link for Source Code](url)
